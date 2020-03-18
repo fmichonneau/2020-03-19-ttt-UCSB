@@ -16,6 +16,8 @@ locations:
   - venue: "University of California, Santa Barbara"
     address: "Library, 525 UCEN Rd, Santa Barbara, CA 93106"
     latlng: "34.41377,-119.84546"
+  - venue: "Online"
+    address: "https://carpentries.zoom.us/my/carpentriesroom1" 
 
 ---
 
